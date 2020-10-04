@@ -1,4 +1,4 @@
-# specflow
+# projetoMantis
 
 Aplica teste funcional ao login do site: https://mantis-prova.base2.com.br/login_page.php, utilizando as ferramentas: selenium Web Drive e Specflow com C#.
 
