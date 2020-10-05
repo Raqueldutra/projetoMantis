@@ -24,4 +24,4 @@ Aplica teste funcional ao login do site: https://mantis-prova.base2.com.br/login
 # Executando o projeto em pront de comando
 
 * Acessar o diretorio do projeto projetoMantis\bin\Debug
-* executar  dotnet test projetoMantis.dll
+* ``` dotnet test projetoMantis.dll ```
