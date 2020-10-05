@@ -15,7 +15,7 @@ Aplica teste funcional ao login do site: https://mantis-prova.base2.com.br/login
 
 # Executando o projeto no Visual Studio
 
-* Instalar [Mycrosoft Visual Studio 2019+](https://visualstudio.microsoft.com/pt-br/downloads/)
+* Instalar [Microsoft Visual Studio 2019+](https://visualstudio.microsoft.com/pt-br/downloads/)
 * abrir o projeto pela IDE
 * Acessar gerenciador de testes
 * Executar todos os testes
