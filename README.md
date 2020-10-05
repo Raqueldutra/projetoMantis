@@ -9,13 +9,19 @@ Aplica teste funcional ao login do site: https://mantis-prova.base2.com.br/login
 * Login em branco
 
 # Requisitos
-* Specflow
-* .NET Framework 4.7.2
-* 
 * Chrome 70+
 * [Chromedriver 70+](https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver)
 
 
-# Executando o projeto
+# Executando o projeto no Visual Studio
 
-* dotnet test projetoMantis.dll
+* Instalar [Mycrosoft Visual Studio 2019+](https://visualstudio.microsoft.com/pt-br/downloads/)
+* abrir o projeto pela IDE
+* Acessar gerenciador de testes
+* Executar todos os testes
+
+
+# Executando o projeto em pront de comando
+
+* Acessar o diretorio do projeto projetoMantis\bin\Debug
+* executar  dotnet test projetoMantis.dll
